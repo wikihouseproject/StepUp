@@ -1,5 +1,5 @@
 # StepUp
-Small, portable two-step unit for use during assembly of Wren chassis and throughout build.
+Small, portable two-step unit for use during assembly of Wren chassis and throughout builds.
 
 ![alt tag](https://github.com/wikihouseproject/StepUp/blob/master/StepUp.jpg)
 
