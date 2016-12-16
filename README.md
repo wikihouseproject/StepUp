@@ -1,9 +1,11 @@
 # StepUp
 Small, portable two-step unit for use during assembly of Wren chassis and throughout build.
 
-![alt tag](https://github.com/wikihouseproject/StepUp/blob/master/stepup.jpg)
+![alt tag](https://github.com/wikihouseproject/StepUp/blob/master/StepUp.jpg)
 
-StepUp has multiple uses. Firstly, it is useful for jobs where a little extra height is needed, but a stepladder is unnecessary, and too much bother. Other key uses include as on-site seating and in order to make a level change between the inside and outside of the house before it is completed much safer.
+StepUp has multiple uses. Firstly, it is useful for jobs where a little extra height is needed, but a stepladder is unnecessary, and too much bother to continuously relocate. Other key uses include as on-site seating and in order to make a level change between the inside and outside of the house before it is completed much safer.
+
+Distribute the parts for several step ups onto spare spaces on cutting files.
 
 
 =======
