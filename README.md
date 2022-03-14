@@ -1,3 +1,6 @@
+### IMPORTANT: For the latest WikiHouse core system info please see the [Skylark repo](https://github.com/wikihouseproject/Skylark) and [WikiHouse guides](https://www.wikihouse.cc/guides)
+
+
 # StepUp
 Small, portable two-step unit for use during assembly of Wren chassis and throughout builds.
 
